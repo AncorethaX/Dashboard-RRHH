@@ -1,2 +1,14 @@
-# Dashboard-RRHH
-Dashboard de RRHH (Power BI / Excel) con imágenes
+# Dashboard RRHH
+
+Este repositorio contiene un **Dashboard de Recursos Humanos** realizado en **Excel y Power BI**.
+
+## Contenido
+
+
+## Visualizaciones Excel
+
+
+## Visualizaciones Power BI
+
+
+## Contacto
