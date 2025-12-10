@@ -1,14 +1,43 @@
 # Dashboard RRHH
 
-Este repositorio contiene un **Dashboard de Recursos Humanos** realizado en **Excel y Power BI**.
+Repositorio con un **Dashboard de Recursos Humanos** desarrollado en **Power BI** y **Excel**, que permite analizar los indicadores clave de RRHH.
 
-## Contenido
+---
+
+## 📂 Archivos del proyecto
+Todos los archivos están organizados en carpetas:
+
+- `archivos/dashboard.xlsx` — Archivo Excel con los datos.  
+- `archivos/dashboard.pbix` — Dashboard interactivo en Power BI.
+
+---
+
+## 📊 Vista previa del Dashboard
+Aquí puedes ver ejemplos de cómo luce el dashboard:
+
+![Dashboard ejemplo](imagenes/dashboard1.png)
+![Otra vista del dashboard](imagenes/dashboard2.png)
 
 
-## Visualizaciones Excel
+---
 
+## ⚙️ Tecnologías utilizadas
+- **Power BI**: Visualización interactiva de datos.  
+- **Excel**: Análisis y preparación de datos.
 
-## Visualizaciones Power BI
+---
 
+## 📝 Descripción
+Este dashboard permite analizar los siguientes indicadores clave de RRHH:
 
-## Contacto
+- Rotación de personal  
+- Asistencias y ausencias  
+- Distribución por cargos y departamentos  
+- Indicadores de desempeño  
+
+---
+
+## ✉️ Contacto
+**Mail:** xjaqueneira@gmail.com    
+**LinkedIn:** [Tu LinkedIn](https://www.linkedin.com/in/tuusuario)  
+**País:** Chile
