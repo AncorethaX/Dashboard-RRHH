@@ -15,8 +15,8 @@ Todos los archivos están organizados en carpetas:
 ## 📊 Vista previa del Dashboard
 Aquí puedes ver ejemplos de cómo luce el dashboard:
 
-![Dashboard ejemplo](imagenes/dashboard1.png)
-![Otra vista del dashboard](imagenes/dashboard2.png)
+![Dashboard ejemplo](imagenes/DashboardRRHH.png)
+![Otra vista del dashboard](imagenes/DashboardRRHH2.png)
 
 
 ---
